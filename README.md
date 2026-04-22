@@ -14,8 +14,8 @@ impl AboutMe
        Info {
           name:  "Bhawna ",
           anguage_spoken:  ["hi_IN", "en_US"],
-          Working: " Collabora ",
-          Learning: " Golang ",
+          Working: " Aya Wallet/Community ",
+          Learning: " Exploring ",
        }
 
     }
@@ -39,7 +39,7 @@ impl AboutMe
 
     fn getFutureGoal() -> &str
     {
-        "Learn more about Rust,Golang and NodeJS."
+        "Deep dive into the world of AI"
     }
 }
 
