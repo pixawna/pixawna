@@ -11,26 +11,24 @@
 ```
 # Hey, I'm Bhawna 👋
 
-**Builder • DevRel Engineer • Open Source Human • Sometimes Cookin' Robots 🤖**
+**Builder • Open Source Human • Sometimes Cookin' Robots 🤖**
 
-I'm a creative all-rounder at [**Superplane**](https://superplane.com/) 👩‍🍳, where I build developer-facing products, experiment with ideas and document the journey one product at a time with [**Pixo**](https://pixawna.tech/pixo).
-
-These days, I'm cookin' up something in **Physical AI** trying to solve a problem I've personally been facing for the last four years.
+Currently building [**Nobi Robotics**](https://nobirobotics.com/) [**SuperPlane**](https://superplane.com/)🌱
 
 Previously, I built:
 
-→ [**Swarmbase**](https://swarmbase.app/), a control room for multi-agent growth teams, as its Founding Engineer  
+→ [**Swarmbase**](https://github.com/ParallelSwarmbase), a control room for multi-agent growth teams, as its Founding Engineer  
 → [**StarStarter**](https://starstarter.app/), a tool that turned GitHub stars into active contributors. Built it, sold it and somehow it also helped me land my dream role  
 → [**Transpact**](https://github.com/Transpact/transpact), a contract-management platform incubated by NEAR Protocol  
 
-I love building products, simplifying complicated technology and helping developers get more out of the tools they use. You can connect with me [**here**](https://pixawna.tech/)
+I love building around Open source, robotics & products I wish existed. Everything I’ve built so far [here](https://pixawna.tech/)
 
 ---
 
 ## A few things I've done
 
-- Built and sold products across developer tooling, AI, automation, Web3 and open source
-- Built [**Swarmbase**](https://swarmbase.app/) a control room for multi-agent growth teams as the founding engineer
+- Built and sold products across developer tooling, AI, automation, crypto and open source
+- Built [**Swarmbase**](https://github.com/ParallelSwarmbase) a control room for multi-agent growth teams as the founding engineer
 - Previously founded [**SheBuilds Ecosystem**](https://shebuildsecosystem.com/), growing it to **10,000+ women in tech** and supporting **300+ projects**
 - Worked on [**MonadoXR**](https://monado.dev/), an open-source OpenXR runtime
 - Became an [**MLH Top 50 Hacker**](https://top.mlh.io/2023/profiles/bhawna-chauhan) at 18
@@ -44,6 +42,6 @@ I love building products, simplifying complicated technology and helping develop
 
 ```txt
 building    → Physical AI 🤖
-working     → Superplane 👩‍🍳
+working     → SuperPlane 👩‍🍳
 exploring   → AI × Robotics × Developer Tools
-documenting → the journey with Pixo 💜
+documenting → the journey💜
