@@ -13,7 +13,7 @@
 
 **Builder • Open Source Human • Sometimes Cookin' Robots 🤖**
 
-Currently building [**Nobi Robotics**](https://nobirobotics.com/) [**SuperPlane**](https://superplane.com/)🌱
+Currently building [**Nobi Robotics**](https://nobirobotics.com/) & [**SuperPlane**](https://superplane.com/)🌱
 
 Previously, I built:
 
